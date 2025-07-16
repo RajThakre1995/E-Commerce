@@ -1,6 +1,5 @@
 # E-Commerce Case Study
-# 
-
+ 
 A practical case study for applying SQL skills to solve real-world business problems in the e-commerce domain. This project focuses on analyzing transactional data to extract actionable insights that support multiple business functions.
 
 ---
