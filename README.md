@@ -17,13 +17,13 @@ Your analysis will serve multiple departments, including:
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 Your SQL-based analysis will help inform:
 - Customer Insights: Understand customer behavior and segmentation to tailor marketing strategies.
-- 🎯 Product Analysis:Identify high and low-performing products to improve product portfolio decisions.
-- 🎯 Sales Optimization: Analyze sales patterns to discover trends, growth opportunities, and weak areas.
-- 🎯 Inventory Management: Optimize stock levels to improve availability and reduce holding costs.
+- Product Analysis:Identify high and low-performing products to improve product portfolio decisions.
+- Sales Optimization: Analyze sales patterns to discover trends, growth opportunities, and weak areas.
+- Inventory Management: Optimize stock levels to improve availability and reduce holding costs.
 
 ---
 
